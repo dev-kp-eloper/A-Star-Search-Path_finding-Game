@@ -3,11 +3,14 @@ A C++ hard coded Game purely based on the principles of A star Search algorithm 
 
 
 
-Description:                                                                                                                                 AQuest is an engaging C++ based game that shows problem-solving skills as you navigate through a grid-based world filled with obstacles. Inspired by the powerful A star search algorithm, this game allow players to challenge it to find the shortest path between selected start and end nodes amidst a maze of blocked nodes.                                                                                   
+Description:  
+
+AQuest is an engaging C++ based game that shows problem-solving skills as you navigate through a grid-based world filled with obstacles. Inspired by the powerful A star search algorithm, this game allow players to challenge it to find the shortest path between selected start and end nodes amidst a maze of blocked nodes.                                                                                   
 
 
 
 Gameplay:
+
 The game presents players with a dynamic grid-based environment, where each cell represents a node. Players can interact with the grid, selecting the start and end nodes by mouse-click or keyboard input. Additionally, they can place obstacles and block nodes by simply clicking on specific cells.                                                                                                                           
 
 
